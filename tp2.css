@@ -1,0 +1,57 @@
+section {
+    display: flex;
+    overflow: auto;
+
+}
+
+form {
+    padding: 10px;
+
+    margin: 10px;
+    width: 50%;
+}
+
+.formulaire {
+    border: solid black 1px;
+    width: auto;
+    min-width: 15vw;
+
+}
+
+footer {
+    color: gray;
+}
+
+.bg-blog {
+    background-color: lightgreen;
+    width: auto;
+    min-width: 80vw;
+
+}
+input {
+
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.erreur-tag {
+    color: red;
+}
+
+/* CSS ici qui sers un peu à rien, j'essayais d'espacer un peu mes h1, p et footer mais ça a pas donné grand chose */
+.header-blog {
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+}
+
+.p-blog {
+    margin: 5px;
+    padding: 5px;
+}
+
+.footer-blog {
+    margin: 5px;
+    padding: 5px;
+}
