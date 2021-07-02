@@ -1,1 +1,1 @@
-# blogTP2
+La page principal est index.php
